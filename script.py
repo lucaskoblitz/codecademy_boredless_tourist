@@ -1,0 +1,1 @@
+destinations = ["Paris, France", "Shangai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"]
